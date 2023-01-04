@@ -160,14 +160,15 @@ params:
     # title: "Custom Name"
     items:
       - job: "Senior Platform Engineer"
-        company: "Phoenix Group"
-        companyUrl: "https://www.thephoenixgroup.com/"
-        date: "Jan 2023 - present"
+        company: "ReAssure - Part of Phoenix Group"
+        companyUrl: "https://www.reassure.co.uk"
+        date: "Jan 2023 - Present"
         featuredLink:
-          enable: true
-          name: "View the project"
+          enable: false
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        info:
+          enable: false
+        content: "A new role that continues my work with DevOps related tasks."
 
       - job: "DevOps Engineer"
         company: "OGL Software"
@@ -179,7 +180,7 @@ params:
         info:
           enable: true
         content: |
-          My goal was to help the web and Linux teams work more efficiently and effectively by using automation and industry-standard practices, and by collaborating with other departments and developers to utilize our diverse skills and expertise to drive improvements and achieve our objectives.
+          My primary goal was to help the web and Linux teams work more efficiently and effectively by using automation and industry-standard practices, and by collaborating with other departments and developers to utilize our diverse skills and expertise to drive improvements and achieve our objectives.
           - Using automation tools like Ansible and terraform to streamline the deployment process for web servers such as Apache and Nginx.
           - Maintaining and integrating a Zabbix monitoring solution.
           - Improving and educating on DevOps processes and advocating for new tooling.
