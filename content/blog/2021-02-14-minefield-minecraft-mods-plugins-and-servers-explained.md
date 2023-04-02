@@ -8,7 +8,7 @@ tags:
   - server
 authors:
   - dgibbs
-image: /images/minecraft-mods.png
+image: /images/blog/2021-02-14-minecraft-mods.png
 ---
 
 > In this post I will be discussing Minecraft: Java Edition exclusively.
@@ -33,7 +33,7 @@ The advantage of this is that these game servers are easier to access as they do
 
 Mods are changes to the Minecraft base code that add a whole variety of customisation. This is often customisation that can create fundamental changes in how Vanilla Minecraft works.
 
-![](/images/pixelmon-generations.jpg)
+![](/images/blog/2021-02-14-pixelmon-generations.jpg)
 
 As these are changes to the base code, a custom version of the game client and server is required to play them.
 
@@ -45,13 +45,13 @@ Rather than creating a custom game client for every small mod (which would be im
 
 To make it easier to install modpacks there are special game launchers that can be used to simplify the installation of modpacks. Some of the most popular Include [Technic](https://www.technicpack.net/) and [Feed The Beast](https://feed-the-beast.com/) and [ATLauncher](https://atlauncher.com/). Most modpacks are available from these launchers. An example of a popular modpack is [Pixelmon Generations](https://pixelmongenerations.com/). Like with plugins there are plenty of articles giving there view on the best modpacks available
 
-![](/images/technic-launcher-screenshot.jpg)
+![](/images/blog/2021-02-04-technic-launcher-screenshot.jpg)
 
 Technic Mod Launcher
 
 ## Game Servers
 
-![](/images/server.jpg)
+![](/images/blog/2021-02-14-server.jpg)
 
 When Minecraft was first released it came with a server to allow players to self-host their own Minecraft server. However, many players quickly wanted to extend and add new functionality to their servers.
 
@@ -69,7 +69,7 @@ The original unmodified vanilla server is created and distributed by Mojang. Thi
 
 [Bukkit](https://dev.bukkit.org/) is the original modded server that added an API allowing developers to create plugins for the server.
 
-![](/images/bukkit.jpg)
+![](/images/blog/2021-02-14-bukkit.jpg)
 
 ### CraftBukkit
 
@@ -77,7 +77,7 @@ CraftBukkit is a modified version of Vanilla that can also run Bukkit plugins. I
 
 #### Spigot
 
-![](/images/spigot.png)
+![](/images/blog/2021-02-14-spigot.png)
 
 [Spigot](https://www.spigotmc.org/) is one of the most popular servers, based on CraftBukkit, it adds further improvements. There are thousands of plugins that work with Spigot making it a top choice for server admins.
 
@@ -89,11 +89,11 @@ CraftBukkit is a modified version of Vanilla that can also run Bukkit plugins. I
 
 [Forge](https://forums.minecraftforge.net/) is the server primarily used by modpacks. In most cases, you would not download a vanilla forge server but instead, a custom pre-made modpack server based on forge. An example of a pre-made server is [Tekxit](https://www.technicpack.net/modpack/tekxit-3-official-1122.1253751) from the link you can download both the client and the server versions.
 
-![](/images/forge.jpg)
+![](/images/blog/2021-02-14-forge.jpg)
 
 ### BungeeCord
 
-![](/images/bungeecord-en-schema.png)
+![](/images/blog/2021-02-14-bungeecord-en-schema.png)
 
 Source _[EnviousHost](https://www.envioushost.com/blog/how-to-set-up-bungeecord/)_
 

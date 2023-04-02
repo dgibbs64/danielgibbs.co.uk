@@ -2,11 +2,14 @@
 title: "Fix dnf/yum repo failing after CentOS 8 EOL"
 date: 2022-02-14
 categories:
-  - centos
   - linux
+tags:
+  - centos
+  - yum
+  - dnf
 authors:
   - dgibbs
-image: /images/centos-cloudlinux.jpg
+image: /images/blog/2022-02-14-centos-cloudlinux.jpg
 ---
 
 Centos 8 reached its End of Life on December 31, 2021 and the associated repositories were shut down. This means that it is no longer possible to download anything from these repositories, and attempting to do so may result in errors such as:

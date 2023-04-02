@@ -9,7 +9,7 @@ tags:
   - server
 authors:
   - dgibbs
-image: pi-hole-screenshot.png
+image: /images/blog/2020-07-08-pi-hole-screenshot.png
 ---
 
 After installing Pi-Hole on an Ubuntu server, I discovered that the server itself could no longer resolve DNS. I was unsure how to fix this until I stumbled upon a similar issue while researching LAN Cache. It remains unclear if this problem affects the standard installation as well as the Pi-Hole docker container.

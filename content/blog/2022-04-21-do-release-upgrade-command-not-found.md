@@ -3,7 +3,7 @@ title: "do-release-upgrade: command not found"
 date: 2022-04-21
 authors:
   - dgibbs
-image: /images/jammy-jellyfish-wallpaper-840x473.jpg
+image: /images/blog/2022-04-21-jammy-jellyfish-wallpaper-840x473.jpg
 ---
 
 If you encounter the error `do-release-upgrade: command not found` while attempting to upgrade from _Ubuntu 20.04_ to _Ubuntu 22.04_, you can use the following command to resolve the issue:

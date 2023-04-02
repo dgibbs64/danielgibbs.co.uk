@@ -47,6 +47,9 @@ Menus:
     #   weight: 2
 
 params:
+  css:
+    - css/custom.css
+
   title: "Daniel Gibbs"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
@@ -143,7 +146,7 @@ params:
       items:
         - "Ansible"
         - "BASH"
-        - "CentOS"
+        - "RedHat"
         - "Cloudflare"
         - "Docker"
         - "Github Actions"
@@ -156,7 +159,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Senior Platform Engineer"
-        company: "ReAssure - Part of Phoenix Group"
+        company: "ReAssure"
         companyUrl: "https://www.reassure.co.uk"
         date: "Jan 2023 - Present"
         featuredLink:
@@ -164,7 +167,7 @@ params:
           url: "https://example.com"
         info:
           enable: false
-        content: "A new role that continues my work with DevOps related tasks."
+        content: "My current Platform Engineering role involves working on projects related to RedHat Enterprise Linux and Ansible."
 
       - job: "DevOps Engineer"
         company: "OGL Software"
@@ -174,7 +177,7 @@ params:
           enable: false
           url: "https://example.com"
         info:
-          enable: true
+          enable: false
         content: |
           My primary goal was to help the web and Linux teams work more efficiently and effectively by using automation and industry-standard practices, and by collaborating with other departments and developers to utilize our diverse skills and expertise to drive improvements and achieve our objectives.
           - Using automation tools like Ansible and terraform to streamline the deployment process for web servers such as Apache and Nginx.
@@ -182,6 +185,7 @@ params:
           - Improving and educating on DevOps processes and advocating for new tooling.
           - Maintaining a custom server deployment and inventory tool.
           - Managing Cloudflare tenants and git repositories on BitBucket.
+
       - job: "Combat Systems Engineer"
         company: "BAE Systems"
         companyUrl: "https://www.baesystems.com/en-uk/home"
@@ -193,6 +197,7 @@ params:
           url: "https://www.baesystems.com/en-uk/home"
         content: |
           Over the course of three years, I have held multiple IT-based roles within BAE Systems. My career with the company began with me installing network equipment on board HMS Prince of Wales before becoming a Combat Systems engineer. In this role, I conducted trials and wrote "Body of Evidence" reports to ensure the product was safe and functional for installation. I also worked on another project, supporting the integration and trials. This included installing cabling infrastructure and clients, maintaining and administering the representative test environment, creating a solution to gather performance metrics, and supporting trial engineers to allow hosted trials to be conducted.
+
       - job: "Weapon Engineer"
         company: "Royal Navy"
         companyUrl: "https://www.royalnavy.mod.uk/"
@@ -201,8 +206,12 @@ params:
           enable: true
           name: "Herbert Lott Award"
           url: "https://www.royalnavy.mod.uk/news-and-latest-activity/news/2017/october/25/171025-weapons-engineer-wins-top-innovation-award"
+        info:
+          enable: false
         content: |
-          I have 4 years of experience as a Weapon Engineer in the Royal Navy, serving on three of the latest warships and working on various communication systems such as ship-based computer networks, self-powered telephones, and broadcast & alarm systems. I have a strong background in the networks section, where I designed a user-friendly graphical interface for the QEC network management system that made an advanced system easy to understand for non-technical personnel. My efforts were recognized with two awards, the Herbert Lott and CO's Efficiency Award.
+          I have 4 years of experience as a Weapon Engineer in the Royal Navy.
+          Serving on three of the Royal Navys latest warships, working on various communication systems such as ship-based computer networks, self-powered telephones, and broadcast & alarm systems.
+          I had a strong background in the networks section, where I designed a user-friendly graphical interface for the QEC network management system that made an advanced system easy to understand for non-technical personnel. My efforts were recognized with two awards, the Herbert Lott and CO's Efficiency Award.
   # Education
   education:
     enable: false
