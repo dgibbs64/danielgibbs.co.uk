@@ -13,7 +13,7 @@ tags:
   - windows
 authors:
   - dgibbs
-image: /images/minecraft-menu.jpg
+image: minecraft-java-menu.png
 ---
 
 When researching for [LinuxGSM](https://linuxgsm.com) as someone with little knowledge of Minecraft I found it very difficult to understand the differences between various terms, versions, server versions, mods and plugins. There is information scattered all around the Internet, and until it was all explained to me by several people, I was very confused.
@@ -22,9 +22,10 @@ This two-part article will cover the different terms, versions, servers, mods, p
 
 ## Versions of Minecraft
 
-![](/images/minecraft-bedrock-menu.png)![](/images/minecraft-java-menu.png)
-
-Minecraft: Bedrock Edition and Minecraft: Java Edition Menu's
+![Minecraft: Java Edition](minecraft-java-menu.png)
+Minecraft: Java Edition
+![Minecraft: Bedrock Edition](minecraft-bedrock-menu.png)
+Minecraft: Bedrock Edition
 
 **_[Minecraft](https://minecraft.gamepedia.com/Java_Edition)_** (aka _Minecraft: Java Edition_) is a blocky sandbox game developed by [Mojang](https://en.wikipedia.org/wiki/Mojang_Studios) and originally released in 2009. It was developed using [Java](<https://en.wikipedia.org/wiki/Java_(programming_language)>) and ran on PC (Windows, Mac and Linux). It has since become one of the best selling videos games of all time. It supports self-hosted servers and massive amounts of third-party user-created content (more on that later).
 
@@ -49,13 +50,12 @@ There are currently two _main_ versions of Minecraft.
 
 As mentioned above, the original version of Minecraft written in Java that works on PC only does not support cross-platform multiplayer but has extensive third-party content/mod support.
 
-![](/images/minecraft-java-cover.jpg)
+![](minecraft-java-cover.png)
 
 ### Minecraft: Bedrock Edition
 
-![](/images/minecraft-bedrock-cover.jpg)
-
 The version of Minecraft written in C++ that is cross-platform, has cross-platform multiplayer and has a [Marketplace](https://www.minecraft.net/en-us/marketplace/) with a limited selection of content curated by Mojang.
+![](minecraft-bedrock-cover.png)
 
 ### What are Dungeons, Story Mode and Realms?
 
