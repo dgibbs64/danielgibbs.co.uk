@@ -146,7 +146,7 @@ params:
       items:
         - "Ansible"
         - "BASH"
-        - "RedHat"
+        - "Red Hat"
         - "Cloudflare"
         - "Docker"
         - "Github Actions"
@@ -167,7 +167,7 @@ params:
           url: "https://example.com"
         info:
           enable: false
-        content: "My current Platform Engineering role involves working on projects related to RedHat Enterprise Linux and Ansible."
+        content: "My current Platform Engineering role involves working on projects related to Red Hat Enterprise Linux and Ansible."
 
       - job: "DevOps Engineer"
         company: "OGL Software"
