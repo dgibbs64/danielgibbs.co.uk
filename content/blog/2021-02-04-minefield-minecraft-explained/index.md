@@ -34,7 +34,7 @@ To expand into the console market, in 2012 the first _**[console edition](https:
 
 In 2011 development started on **_[Minecraft: Pocket Edition](https://minecraft.gamepedia.com/Pocket_Edition)_** (MCPE) a version specifically designed for mobile that was later released in 2016. Pocket Edition introduced the Bedrock Engine that is written in [C++](https://en.wikipedia.org/wiki/C%2B%2B), rather than Java. This version was later ported to Windows 10: Edition, Apple TV Edition, Fire TV Edition and Gear VR Edition.
 
-![](/images/minecraft-pocket-edition.png)
+![](minecraft-pocket-edition.png)
 
 In 2017 **_[Minecraft: Bedrock Edition](https://minecraft.gamepedia.com/Bedrock_Edition)_** (MCBE) was released as a version specifically designed to expand MCPE into a unified cross-platform version of Minecraft. Bringing together both MCPC, console editions, Windows 10: Edition and others under one version. Apart from being on many mobile and console platforms the main advantage of this edition is cross-platform compatible multiplayer allowing players with different devices to play together and a curated content store called _[Marketplace](https://www.minecraft.net/en-us/marketplace/)_.
 
