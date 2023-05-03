@@ -144,6 +144,7 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
+        - "AWS"
         - "Ansible"
         - "BASH"
         - "Red Hat"
@@ -167,7 +168,7 @@ params:
           url: "https://example.com"
         info:
           enable: false
-        content: "My current Platform Engineering role involves working on projects related to Red Hat Enterprise Linux and Ansible."
+        content: "My current Platform Engineering role involves working on projects related to Red Hat Enterprise Linux, Ansible and AWS."
 
       - job: "DevOps Engineer"
         company: "OGL Software"
@@ -196,7 +197,7 @@ params:
           enable: false
           url: "https://www.baesystems.com/en-uk/home"
         content: |
-          Over the course of three years, I have held multiple IT-based roles within BAE Systems. My career with the company began with me installing network equipment on board HMS Prince of Wales before becoming a Combat Systems engineer. In this role, I conducted trials and wrote "Body of Evidence" reports to ensure the product was safe and functional for installation. I also worked on another project, supporting the integration and trials. This included installing cabling infrastructure and clients, maintaining and administering the representative test environment, creating a solution to gather performance metrics, and supporting trial engineers to allow hosted trials to be conducted.
+          Over the course of three years, I held multiple IT-based roles within BAE Systems. My career with the company began with me installing network equipment onboard HMS Prince of Wales before becoming a Combat Systems engineer. In this role, I conducted trials and wrote "Body of Evidence" reports to ensure the product was safe and functional for installation. I also worked on another project, supporting the integration and trials. This included installing cabling infrastructure and clients, maintaining and administering the representative test environment, creating a solution to gather performance metrics, and supporting trial engineers to allow hosted trials to be conducted.
 
       - job: "Weapon Engineer"
         company: "Royal Navy"
