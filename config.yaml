@@ -27,7 +27,6 @@ Menus:
       title: Blog posts
       url: /blog
       weight: 1
-      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -168,7 +167,7 @@ params:
           url: "https://example.com"
         info:
           enable: false
-        content: "My current Platform Engineering role involves working on projects related to Red Hat Enterprise Linux, Ansible and AWS."
+        content: "My current Platform Engineering role involves working on projects related to Red Hat Enterprise Linux, Ansible and AWS. My first major task has been installing and maintaining RedHat Satellite."
 
       - job: "DevOps Engineer"
         company: "OGL Software"
@@ -306,6 +305,18 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/dgibbs64?tab=repositories&q=ansible
+
+      - title: Is my Game Server Online?
+        content: A web based game server status checker
+        image: /images/projects/gameserveronline.png
+        featured:
+          name: Website
+          link: https://kiddycar.club
+        badges:
+          - "NodeJS"
+          - "Express"
+          - "Docker"
+          - "Bootstrap"
 
       - title: Wordpress Site
         content: Recently completed a website for a local car club.
