@@ -1,0 +1,2 @@
+ARG HUGO_VERSION=0.148.1
+FROM floryn90/hugo:${HUGO_VERSION}-ext-alpine

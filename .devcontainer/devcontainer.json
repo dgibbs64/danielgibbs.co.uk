@@ -1,0 +1,18 @@
+{
+  "name": "Hugo Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "args": {
+      "HUGO_VERSION": "0.148.1"
+    }
+  },
+  "forwardPorts": [1313],
+  "workspaceFolder": "/src",
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/src,type=bind"
+  ],
+  "postCreateCommand": "hugo version",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/ash"
+  }
+}
