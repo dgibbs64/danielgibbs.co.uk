@@ -1,2 +1,2 @@
 # danielgibbs.co.uk
-Personal website of Daniel Gibbs
+Personal website of Daniel Gibbs using hugo.
