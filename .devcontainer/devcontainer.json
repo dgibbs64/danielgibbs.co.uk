@@ -8,5 +8,12 @@
 		"ghcr.io/devcontainers/features/hugo:1": {
 			"version": "latest"
 		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"budparr.language-hugo-vscode"
+			]
+		}
 	}
 }
