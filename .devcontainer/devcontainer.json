@@ -1,18 +1,12 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
 {
-  "name": "Hugo Dev Container",
-  "build": {
-    "dockerfile": "Dockerfile",
-    "args": {
-      "HUGO_VERSION": "0.148.1"
-    }
-  },
-  "forwardPorts": [1313],
-  "workspaceFolder": "/src",
-  "mounts": [
-    "source=${localWorkspaceFolder},target=/src,type=bind"
-  ],
-  "postCreateCommand": "hugo version",
-  "settings": {
-    "terminal.integrated.shell.linux": "/bin/ash"
-  }
+	"name": "Ubuntu",
+	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+	"image": "mcr.microsoft.com/devcontainers/base:noble",
+	"features": {
+		"ghcr.io/devcontainers/features/hugo:1": {
+			"version": "latest"
+		}
+	}
 }
