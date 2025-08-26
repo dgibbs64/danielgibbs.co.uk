@@ -158,16 +158,27 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Platform Engineer"
-        company: "ReAssure"
-        companyUrl: "https://www.reassure.co.uk"
-        date: "Jan 2023 - Present"
+      - job: "Site Reliability Engineer"
+        company: "SiXworks"
+        companyUrl: "https://www.sixworks.net/"
+        date: "July 2025 - Present"
         featuredLink:
           enable: false
           url: "https://example.com"
         info:
           enable: false
-        content: "My current Platform Engineering role involves working on projects related to Red Hat Enterprise Linux, Ansible and AWS. My first major task has been installing and maintaining RedHat Satellite."
+        content: "This role is allowing me to make use of my Terraform and Ansible Skills as well as my defence background."
+    
+      - job: "Senior Platform Engineer"
+        company: "ReAssure"
+        companyUrl: "https://www.reassure.co.uk"
+        date: "Jan 2023 - June 2025"
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        info:
+          enable: false
+        content: "This Platform Engineering role involved working on projects related to Red Hat Enterprise Linux, Ansible and AWS. I was responsible installing and maintaining RedHat Satellite and refactoring existing Ansible pipelines."
 
       - job: "DevOps Engineer"
         company: "OGL Software"
